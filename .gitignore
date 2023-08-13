@@ -1,0 +1,8 @@
+.vscode/
+admin/.vscode/
+node_modules/*
+package.json
+package-lock.json
+tailwind.config.js
+pnpm-lock.yaml
+admin/package.json
